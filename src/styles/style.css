@@ -76,6 +76,7 @@ body {
 @media screen and (max-width: 525px) {
   #container {
     width: 35rem;
+    font-size: 1.2rem;
   }
 
   .tab-buttons {
